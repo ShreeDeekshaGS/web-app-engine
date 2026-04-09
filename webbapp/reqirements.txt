@@ -1,0 +1,2 @@
+flasks=3.0.1
+guricorn==21.2.0
